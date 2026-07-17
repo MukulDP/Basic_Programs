@@ -1,0 +1,1 @@
+In this repository there are some Basic Programs which are generally ask for interviews, some programs are based on Mathematical problems and some Pattern problems that are gives knowledge about how the logic works for programming.
