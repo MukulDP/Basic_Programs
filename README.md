@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains basic programming examples that are commonly asked in interviews.
 
 It includes:
@@ -8,3 +9,6 @@ It includes:
 - Pattern programs
 
 These examples are intended to help build programming logic and problem-solving skills.
+=======
+# Basics
+>>>>>>> 41cc197 (Initial commit)
